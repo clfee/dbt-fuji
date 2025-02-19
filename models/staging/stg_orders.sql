@@ -1,1 +1,1 @@
-select * from `dbt-tutorial`.jaffle_shop.customersorders
+select * from `dbt-tutorial`.jaffle_shop.orders
